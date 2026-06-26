@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Ashwajit 👋
 
-<!--
-**ashwajit97k/ashwajit97k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at IIEST Shibpur
 
-Here are some ideas to get you started:
+I'm passionate about technology and enjoy learning by building. Currently exploring Full-Stack Web Development, Cybersecurity, and Data Structures & Algorithms in C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- 💻 DSA in C++
+- 🌐 Full-Stack Web Development
+- 🔐 Cybersecurity
+
+## 🛠️ Tech Stack
+- C
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+
+## 🎯 Goals for 2026
+- Build impactful full-stack projects
+- Strengthen cybersecurity fundamentals
+- Solve DSA problems consistently
+- Contribute to open source
+
+> *"Learning one commit at a time."* 🚀
