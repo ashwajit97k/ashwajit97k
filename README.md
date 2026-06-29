@@ -15,7 +15,7 @@ I'm passionate about technology and enjoy learning by building. Currently explor
 - Python
 - HTML
 - CSS
-- JavaScript
+- JavaScript 
 
 ## 🎯 Goals for 2026
 - Build impactful full-stack projects
